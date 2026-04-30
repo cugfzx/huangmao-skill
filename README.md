@@ -1,4 +1,4 @@
-# 🦴 黄毛模式 — OpenClaw Game Master Agent Skill
+# 黄毛skill — OpenClaw Game Master Agent Skill
 
 > 基于社交动力学的吸引力框架、策略制定与实战指导。为 [OpenClaw](https://github.com/openclaw/openclaw) 量身打造的 Agent Skill。
 
@@ -9,7 +9,7 @@
 
 ## 📖 简介
 
-**黄毛模式** 是一个专为 OpenClaw AI 助手设计的技能包（Agent Skill），赋予 AI 在两性情感社交博弈中的专业指导能力。
+**黄毛skill** 是一个专为 OpenClaw AI 助手设计的技能包（Agent Skill），赋予 AI 在两性情感社交博弈中的专业指导能力。
 
 该技能基于经典 Game 理论（社交动力学），融合了 Mystery Method、Mark Manson 的《Models》、Neil Strauss 的《The Game》等经典框架，提炼出可落地的 **回复范式、场景策略和心态建设**。
 
